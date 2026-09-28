@@ -10,4 +10,5 @@ describe('Pruebas unitarias del loteria Js', () => {
 3 - estilar o html com css 
 4 - criar arquivo app.js para manipulaçao do DOM 
 5 - criar arquivo service.js com logica de negócio
-6 - rodar os testes com npm test 
+6 - rodar os testes com npm test
+ 
